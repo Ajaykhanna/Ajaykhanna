@@ -14,13 +14,13 @@ A passionate Computational Chemist with a strong foundation in data science. I s
 
 ## 🔧 Skills
 - **Drug Discovery Techniques:** Free Energy, Thermodynamics Integration (TI), Ligand Docking, Similarity Search, Structure-based Drug Design
-- **Molecular Dynamics Techniques:** Classical MD, Enhanced sampling MD, Ab Initio MD (AIMD)
+- [**Chemoinformatics:**](https://github.com/Ajaykhanna/Cheminformatics) Rdkit, CppTraj, OEChem, Open Babel
+- [**Molecular Dynamics Techniques:**](https://github.com/Ajaykhanna/Molecular_Dynamics_101) Classical MD, Enhanced sampling MD, Ab Initio MD (AIMD)
 - **Quantum Mechanics Techniques:** HF, DFT, Spectroscopy, Solvent Chemistry, Charge Analysis
-- **Programming:** Python, C++, Bash, Sed, Awk
-- **Data Analysis:** MDTraj, Vortex, NumPy, Pandas, Scikit-learn, SciPy, Plotly, Matplotlib, Excel
-- **Machine Learning:** Linear regression, Decision Trees, k-mean clustering, GNNs
-- **Chemoinformatics:** Rdkit, CppTraj, OEChem, Open Babel
-- **Molecular Dynamics & Quantum Mechanics Software:** Amber, OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
+- [**Machine Learning:**](https://github.com/Ajaykhanna/Machine_Learning_with_Chemistry) Linear regression, Decision Trees, k-mean clustering, GNNs
+- **Programming:** Python, C++, Bash, Sed, Awk, and [CUDA](https://github.com/Ajaykhanna/cuda_with_coffee)
+- [**Data Analysis:**](https://github.com/Ajaykhanna/PythonProjects) MDTraj, Vortex, NumPy, Pandas, Scikit-learn, SciPy, Plotly, Matplotlib, Excel
+- **Molecular Dynamics & Quantum Mechanics Software:** [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
 
 ## 🏆 Certifications
 - Data Science with Python (Simplilearn)
@@ -38,7 +38,7 @@ A passionate Computational Chemist with a strong foundation in data science. I s
   - Developed computational spectroscopy methods to accurately model experimental absorption and fluorescence spectra of molecules using ab initio molecular dynamics, leading to a deeper understanding of environmental effects on molecular properties.
   - Partnered on a $7.5M DOD-funded "Polariton" project, linking experimental results to quantum molecular properties.
   - Performed high throughput molecular dynamics (MD), quantum mechanical (QM) simulations, extensive Density Functional Theory functionals, and basis-sets benchmark studies on molecules in various solvents. 
-  -  Developed a Python code to compute molecules' quantum mechanical vibrational frequencies in explicit solvents and interfaced it with GPU-based quantum chemistry code TeraChem, now part of the MolSpecPy python package. Added fluorescence spectra calculations feature to the code using energy gradient obtained from electronic structure codes like TeraChem and Gaussian.
+  -  Developed a Python code to compute molecules' quantum mechanical vibrational frequencies in explicit solvents and interfaced it with GPU-based quantum chemistry code TeraChem, now part of the [MolSpecPy](https://github.com/Ajaykhanna/Spectroscopy_python_code) python package. Added fluorescence spectra calculations feature to the code using energy gradient obtained from electronic structure codes like TeraChem and Gaussian.
   - Managed local HPC clusters, including installed CUDA libraries and CUDA-based QM software. Efficiently automated large-scale molecular dynamics and quantum mechanics jobs using Slurm, bash, and Python scripts.
 
 - **Teaching Assistant** UC Merced (Aug.2018 – Dec.2022)
