@@ -4,15 +4,7 @@
 
 ## 🌟 About Me
 A passionate Computational Chemist with a strong foundation in data science. I specialize in high throughput molecular dynamics, quantum mechanics, and structure-based transformations, and I'm adept at integrating machine learning techniques for rapid compound screening and predictive analytics. My expertise includes developing tools in Python and C++ for big data analysis and leveraging RDKit and Open Babel for advanced virtual screening applications.
-
-## 🎓 Education
-- **Ph.D. Candidate in Computational Chemistry,** University of California, Merced (2018 – 2024)
-- **M.Sc. Chemistry and Chemical Biology,** UC Merced, California, USA (2022)
-- **M.Sc. Chemistry,** National Institute of Technology (NIT), Rourkela, India (2017)
-- **B.Sc. Chemistry (Hons.),** University of Delhi, New Delhi, India (2015)
-- **Diploma in Full Stack Web Design and Development,** eZone Academy, New Delhi, India
-
-## 🔧 Skills
+## 🔧 Skills [Click for GitHub Repos]
 - **Drug Discovery Techniques:** Free Energy, Thermodynamics Integration (TI), Ligand Docking, Similarity Search, Structure-based Drug Design
 - [**Chemoinformatics:**](https://github.com/Ajaykhanna/Cheminformatics) Rdkit, CppTraj, OEChem, Open Babel
 - [**Molecular Dynamics Techniques:**](https://github.com/Ajaykhanna/Molecular_Dynamics_101) Classical MD, Enhanced sampling MD, Ab Initio MD (AIMD)
@@ -21,6 +13,13 @@ A passionate Computational Chemist with a strong foundation in data science. I s
 - **Programming:** Python, C++, Bash, Sed, Awk, and [CUDA](https://github.com/Ajaykhanna/cuda_with_coffee)
 - [**Data Analysis:**](https://github.com/Ajaykhanna/PythonProjects) MDTraj, Vortex, NumPy, Pandas, Scikit-learn, SciPy, Plotly, Matplotlib, Excel
 - **Molecular Dynamics & Quantum Mechanics Software:** [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
+
+## 🎓 Education
+- **Ph.D. Candidate in Computational Chemistry,** University of California, Merced (2018 – 2024)
+- **M.Sc. Chemistry and Chemical Biology,** UC Merced, California, USA (2022)
+- **M.Sc. Chemistry,** National Institute of Technology (NIT), Rourkela, India (2017)
+- **B.Sc. Chemistry (Hons.),** University of Delhi, New Delhi, India (2015)
+- **Diploma in Full Stack Web Design and Development,** eZone Academy, New Delhi, India
 
 ## 🏆 Certifications
 - Data Science with Python (Simplilearn)
@@ -31,8 +30,7 @@ A passionate Computational Chemist with a strong foundation in data science. I s
 - **Intern, CADD,** Frontier Medicines, South San Francisco, CA, USA (May 2023 – Aug 2023)
   - Developed Python program to streamline SMILES to desolvation energy calculations using AFEP/TI techniques and SMILES to conformational sampling both in OpenMM.
   - Learned unbiased and biased ligand-based docking in MOE, later used to perform ligand-binding free energy calculations.
-  - Built Protein-Ligand binding free energy and desolvation energy calculation pipelines for
-  Bruton's Tyrosine Kinase (BTK) inhibitors using hybrid QM/MM techniques.
+  - Built Protein-Ligand binding free energy and desolvation energy calculation pipelines for Bruton's Tyrosine Kinase (BTK) inhibitors using hybrid QM/MM techniques.
 
 - **Graduate Student Researcher**, Department of Chemistry and Biochemistry, UC Merced (Aug.2018 - Spring.2024)
   - Developed computational spectroscopy methods to accurately model experimental absorption and fluorescence spectra of molecules using ab initio molecular dynamics, leading to a deeper understanding of environmental effects on molecular properties.
