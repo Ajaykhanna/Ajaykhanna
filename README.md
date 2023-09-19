@@ -3,7 +3,8 @@
  🌐 [Portfolio](your-portfolio-link) | 📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/)
 
 ## 🌟 About Me
-A passionate Computational Chemist with a strong foundation in data science. I specialize in high throughput molecular dynamics, quantum mechanics, and structure-based transformations, and I'm adept at integrating machine learning techniques for rapid compound screening and predictive analytics. My expertise includes developing tools in Python and C++ for big data analysis and leveraging RDKit and Open Babel for advanced virtual screening applications.
+A skilled Computational Chemist with a strong foundation in data science. I specialize in high throughput precise molecular dynamics, quantum mechanics, and structure-based transformations, and I'm adept at integrating machine learning techniques for rapid compound screening and predictive analytics. My expertise includes developing tools in Python and C++ for big data analysis and leveraging RDKit and Open Babel for advanced virtual screening applications.
+
 ## 🔧 Skills [Click for repos/scoll down :point_down:]
 - **Drug Discovery Techniques:** Free Energy, Thermodynamics Integration (TI), Ligand Docking, Similarity Search, Structure-based Drug Design
 - [**Chemoinformatics:**](https://github.com/Ajaykhanna/Cheminformatics) Rdkit, CppTraj, OEChem, Open Babel
