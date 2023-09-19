@@ -9,9 +9,9 @@ A passionate Computational Chemist with a strong foundation in data science. I s
 - [**Chemoinformatics:**](https://github.com/Ajaykhanna/Cheminformatics) Rdkit, CppTraj, OEChem, Open Babel
 - [**Molecular Dynamics Techniques:**](https://github.com/Ajaykhanna/Molecular_Dynamics_101) Classical MD, Enhanced sampling MD, Ab Initio MD (AIMD)
 - **Quantum Mechanics Techniques:** HF, DFT, Spectroscopy, Solvent Chemistry, Charge Analysis
-- [**Machine Learning:**](https://github.com/Ajaykhanna/Machine_Learning_with_Chemistry) Linear regression, Decision Trees, k-mean clustering, GNNs
+- [**Machine Learning:**](https://github.com/Ajaykhanna/Machine_Learning_with_Chemistry) Linear regression, Decision Trees, Random Forest, k-mean clustering, GNNs
 - **Programming:** Python, C++, Bash, Sed, Awk, and [CUDA](https://github.com/Ajaykhanna/cuda_with_coffee)
-- [**Data Analysis:**](https://github.com/Ajaykhanna/PythonProjects) MDTraj, Vortex, NumPy, Pandas, Scikit-learn, SciPy, Plotly, Matplotlib, Excel
+- [**Data Analysis:**](https://github.com/Ajaykhanna/PythonProjects) MDTraj, NumPy, Pandas, Scikit-learn, SciPy, Plotly, Matplotlib, Excel, and Vortex
 - **Molecular Dynamics & Quantum Mechanics Software:** [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
 
 ## 🎓 Education
