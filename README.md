@@ -16,10 +16,10 @@ A skilled Computational Chemist with a strong foundation in data science. I spec
 - **Molecular Dynamics & Quantum Mechanics Software:** [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
 
 ## 🎓 Education
-- **Ph.D. Candidate in Computational Chemistry,** University of California, Merced (2018 – 2024)
-- **M.Sc. Chemistry and Chemical Biology,** UC Merced, California, USA (2022)
-- **M.Sc. Chemistry,** National Institute of Technology (NIT), Rourkela, India (2017)
-- **B.Sc. Chemistry (Hons.),** University of Delhi, New Delhi, India (2015)
+- **Ph.D. Candidate in Computational Chemistry,** University of California, Merced
+- **M.Sc. Chemistry and Chemical Biology,** University of California, Merced
+- **M.Sc. Chemistry,** National Institute of Technology (NIT), Rourkela, India
+- **B.Sc. Chemistry (Hons.),** University of Delhi, New Delhi, India
 - **Diploma in Full Stack Web Design and Development,** eZone Academy, New Delhi, India
 
 ## 🏆 Certifications
