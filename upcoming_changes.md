@@ -1,0 +1,1 @@
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajaykhanna&show=prs_merged,prs_merged_percentage)
