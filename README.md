@@ -1,6 +1,6 @@
 # Ajay Khanna
 ### 🎓 Ph.D. Candidate | 🧪 Computational Chemist
- 🌐 [Portfolio](your-portfolio-link) | 📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/)
+  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](#coming-soon) 
 
 ## 🌟 About Me
 A skilled Computational Chemist with a strong foundation in data science. I specialize in high throughput precise molecular dynamics, quantum mechanics, and structure-based transformations, and I'm adept at integrating machine learning techniques for rapid compound screening and predictive analytics. My expertise includes developing tools in Python and C++ for big data analysis and leveraging RDKit and Open Babel for advanced virtual screening applications.
