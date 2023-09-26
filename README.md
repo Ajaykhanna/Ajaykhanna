@@ -6,14 +6,14 @@
 A skilled Computational Chemist with a strong foundation in data science. I specialize in high throughput precise molecular dynamics, quantum mechanics, and structure-based transformations. I'm adept at integrating machine learning techniques for rapid compound screening and predictive analytics. My expertise includes developing tools in Python and C++ for big data analysis and leveraging cheminformatics tools like RDKit and Open Babel for advanced virtual screening applications.
 
 ## 🔧 Skills
+- [**Molecular Dynamics (MD) Techniques:**](https://github.com/Ajaykhanna/Molecular_Dynamics_101) Classical MD, Enhanced sampling MD, Ab Initio MD (AIMD)
+- [**Quantum Mechanics (QM) Techniques:**](https://github.com/Ajaykhanna/Quantum_Mechanics_101) HF, DFT, Torsional Analysis, Geometry Optimization, Spectroscopy: IR and UV-Visible, Solvent Chemistry, Charge Analysis
 - **Drug Discovery Techniques:** Free Energy, Thermodynamics Integration (TI), Ligand Docking, Similarity Search, Structure-based Drug Design
 - [**Chemoinformatics:**](https://github.com/Ajaykhanna/Cheminformatics) Rdkit, CppTraj, OEChem, Open Babel
-- [**Molecular Dynamics Techniques:**](https://github.com/Ajaykhanna/Molecular_Dynamics_101) Classical MD, Enhanced sampling MD, Ab Initio MD (AIMD)
-- [**Quantum Mechanics Techniques:**](https://github.com/Ajaykhanna/Quantum_Mechanics_101) HF, DFT, Torsional Analysis, Geometry Optimization, Spectroscopy: IR and UV-Visible, Solvent Chemistry, Charge Analysis
 - [**Machine Learning:**](https://github.com/Ajaykhanna/Machine_Learning_with_Chemistry) Linear regression, Decision Trees, Random Forest, k-mean clustering, [GNNs](https://github.com/Ajaykhanna/Machine_Learning_with_Chemistry/tree/main/GNNs/generative_models_for_molecue_generation)
 - **Programming:** Python, C++, Bash, Sed, Awk, and [CUDA](https://github.com/Ajaykhanna/cuda_with_coffee)
 - [**Data Analysis:**](https://github.com/Ajaykhanna/PythonProjects) MDTraj, NumPy, Pandas, Scikit-learn, SciPy, Plotly, Matplotlib, Excel, and Vortex
-- **Molecular Dynamics & Quantum Mechanics Software:** [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
+- **MD & QM Software:** [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4
 
 ## 🎓 Education
 - **Ph.D. Candidate in Computational Chemistry,** University of California, Merced
