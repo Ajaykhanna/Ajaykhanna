@@ -65,3 +65,5 @@ A skilled Computational Chemist with a strong foundation in data science. I spec
 - **LinkedIn:** [Ajay Khanna](https://www.linkedin.com/in/ajay-khanna/)
 - **Twitter:** [@Samdig](https://twitter.com/Samdig)
 - **ResearchGate:** [Ajay Khanna, RIScore: 39](https://www.researchgate.net/profile/Ajay-Khanna-2)
+
+![](https://komarev.com/ghpvc/?username=Ajaykhanna&style=for-the-badge)
