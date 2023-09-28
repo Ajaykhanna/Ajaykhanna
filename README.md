@@ -29,6 +29,17 @@ A skilled Computational Chemist with a strong foundation in data science. I spec
 - Fundamental of Accelerated Computing with CUDA Python (NVIDIA)
 - Information Security & Ethical Hacking (Appin Technology Lab)
 
+| 🏢 Company & Role | 📍 Location & Date | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
+|-------------------|--------------------|--------------|---------|-----------|----------|
+| **Frontier Medicines**<br>*Intern, CADD* | South San Francisco, CA, USA<br>(May 2023 – Aug 2023) | Needed a streamlined process for SMILES to desolvation energy calculations and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
+| **UC Merced**<br>*Graduate Student Researcher* | Merced, CA, USA<br>(Aug.2018 - Spring.2024) | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using ab initio molecular dynamics, partnered on the "Polariton" project, performed MD and QM simulations. | Deeper understanding of environmental effects; created [MolSpecPy](https://github.com/Ajaykhanna/Spectroscopy_python_code). |
+| **UC Merced**<br>*Teaching Assistant* | Merced, CA, USA<br>(Aug.2018 – Dec.2022) | First-generation students needed guidance in chemistry courses. | Teach and prepare materials. | Taught courses and developed worksheet materials. | Successfully educated first-generation students over four years. |
+| **Indian Institute of Science**<br>*Research Intern* | Bangalore, India<br>(Jan.2018 – July.2018) | Need to reproduce experimental spectra of Alexa Fluor dyes. | Reproduce spectra using computational techniques. | Used fundamental spectroscopy and Gaussian calculations. | Successfully reproduced experimental spectra. |
+| **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India<br>(Aug.2017 – Nov.2017) | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique metal clusters. |
+| **National Institute of Technology**<br>*Research Assistant* | Rourkela, India<br>(July 2016 – July.2017) | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
+
+
+
 ## 💼 Work Experience
 - **Intern, CADD,** Frontier Medicines, South San Francisco, CA, USA (May 2023 – Aug 2023)
   - Developed Python program to streamline SMILES to desolvation energy calculations using AFEP/TI techniques and SMILES to conformational sampling both in OpenMM.
