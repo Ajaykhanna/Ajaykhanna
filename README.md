@@ -29,41 +29,15 @@ A skilled Computational Chemist with a strong foundation in data science. I spec
 - Fundamental of Accelerated Computing with CUDA Python (NVIDIA)
 - Information Security & Ethical Hacking (Appin Technology Lab)
 
+## 💼 Work Experience
 | 🏢 Company & Role | 📍 Location & Date | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
 |-------------------|--------------------|--------------|---------|-----------|----------|
-| **Frontier Medicines**<br>*Intern, CADD* | South San Francisco, CA, USA<br>(May 2023 – Aug 2023) | Needed a streamlined process for SMILES to desolvation energy calculations and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
-| **UC Merced**<br>*Graduate Student Researcher* | Merced, CA, USA<br>(Aug.2018 - Spring.2024) | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using ab initio molecular dynamics, partnered on the "Polariton" project, performed MD and QM simulations. | Deeper understanding of environmental effects; created [MolSpecPy](https://github.com/Ajaykhanna/Spectroscopy_python_code). |
+| **Frontier Medicines**<br>*Intern, CADD* | South San Francisco, CA, USA<br>(May 2023 – Aug 2023) | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
+| **UC Merced**<br>*Graduate Student Researcher* | Merced, CA, USA<br>(Aug.2018 - Spring.2024) | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, comming soon | A lot, Coming Soon. |
 | **UC Merced**<br>*Teaching Assistant* | Merced, CA, USA<br>(Aug.2018 – Dec.2022) | First-generation students needed guidance in chemistry courses. | Teach and prepare materials. | Taught courses and developed worksheet materials. | Successfully educated first-generation students over four years. |
 | **Indian Institute of Science**<br>*Research Intern* | Bangalore, India<br>(Jan.2018 – July.2018) | Need to reproduce experimental spectra of Alexa Fluor dyes. | Reproduce spectra using computational techniques. | Used fundamental spectroscopy and Gaussian calculations. | Successfully reproduced experimental spectra. |
-| **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India<br>(Aug.2017 – Nov.2017) | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique metal clusters. |
+| **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India<br>(Aug.2017 – Nov.2017) | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
 | **National Institute of Technology**<br>*Research Assistant* | Rourkela, India<br>(July 2016 – July.2017) | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
-
-
-
-## 💼 Work Experience
-- **Intern, CADD,** Frontier Medicines, South San Francisco, CA, USA (May 2023 – Aug 2023)
-  - Developed Python program to streamline SMILES to desolvation energy calculations using AFEP/TI techniques and SMILES to conformational sampling both in OpenMM.
-  - Learned unbiased and biased ligand-based docking in MOE, later used to perform ligand-binding free energy calculations.
-  - Built Protein-Ligand binding free energy and desolvation energy calculation pipelines for Bruton's Tyrosine Kinase (BTK) inhibitors using hybrid QM/MM techniques.
-
-- **Graduate Student Researcher**, Department of Chemistry and Biochemistry, UC Merced (Aug.2018 - Spring.2024)
-  - Developed computational spectroscopy methods to accurately model experimental absorption and fluorescence spectra of molecules using ab initio molecular dynamics, leading to a deeper understanding of environmental effects on molecular properties.
-  - Partnered on a $7.5M DOD-funded "Polariton" project, linking experimental results to quantum molecular properties.
-  - Performed high throughput molecular dynamics (MD), quantum mechanical (QM) simulations, extensive Density Functional Theory functionals, and basis-sets benchmark studies on molecules in various solvents. 
-  -  Developed a Python code to compute molecules' quantum mechanical vibrational frequencies in explicit solvents and interfaced it with GPU-based quantum chemistry code TeraChem, now part of the [MolSpecPy](https://github.com/Ajaykhanna/Spectroscopy_python_code) python package. Added fluorescence spectra calculations feature to the code using energy gradient obtained from electronic structure codes like TeraChem and Gaussian.
-  - Managed local HPC clusters, including installed CUDA libraries and CUDA-based QM software. Efficiently automated large-scale molecular dynamics and quantum mechanics jobs using Slurm, bash, and Python scripts.
-
-- **Teaching Assistant** UC Merced (Aug.2018 – Dec.2022)
-    - Taught introductory chemistry courses (> 95% 1st gen students) and prepared worksheet materials for 4 years.
-
-- **Research Intern**, Indian Institute of Science, Bangalore (Jan.2018 – July.2018)
-    - Reproduced experimental absorption and fluorescence spectra of Alexa Fluor dyes in implicit solvents using fundamental spectroscopy and Gaussian calculations.
-
-- **Research Intern**, Indian Association for the Cultivation Science (Aug.2017 – Nov.2017)
-    - Developed a computational molecular dynamics procedure to generate 3D DNA origami nanostructures using Cadnano and oxDNA, later used to generate unique metal clusters.   
-
-- **Research Assistant**, National Institute of Technology, Rourkela (July 2016 – July.2017)
-    - Conducted quantum mechanical investigation of Zintl phases, showed 18-electron rule's ability to predict and design better Zintl ions and Zintl phases with better magnetic properties. 
 
 ## 📚 Publications
 - **Peer-Reviewed Journals (In preparation)**
