@@ -3,7 +3,23 @@
   📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](#coming-soon) 
 
 ## 🌟 About Me
-A skilled Computational Chemist with a strong foundation in data science. I specialize in high throughput precise molecular dynamics, quantum mechanics, and structure-based transformations. I'm adept at integrating machine learning techniques for rapid compound screening and predictive analytics. My expertise includes developing tools in Python and C++ for big data analysis and leveraging cheminformatics tools like RDKit and Open Babel for advanced virtual screening applications.
+👋 Hi, there welcome to my GitHub! I'm a computational chemistry wizard 🧙‍♂️ obsessed with understanding molecules through data 📊
+
+Here's what I can do:
+
+- 🤯 Perform lightning-fast quantum calculations to see electrons dance 
+
+- 🔬 Run molecular dynamics simulations to watch molecules in motion
+
+- 📈 Build machine and deep learning models to predict chemical properties
+
+- 🎛️ Design pipelines to screen millions of compounds 
+
+- 📌 Discover new insights by crunching chemical big data
+
+- 🛠️ Develop tools in Python and C++ to analyze all the things!
+
+With my spells and algorithms, I transform raw data into molecular insights. Let's use the power of computation to advance materials, medicines and more! 🚀
 
 | Repository Name | Brief Summary | 🔗 Link | 🔧 Skills |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
