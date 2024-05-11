@@ -3,7 +3,7 @@
   📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](#coming-soon) 
 
 ## 🌟 About Me
-👋 Hi, there welcome to my GitHub! I'm a computational chemistry wizard 🧙‍♂️ obsessed with understanding molecules through data 📊! I perform quantum calculations 🤯 to see electrons dance, run molecular simulations 🔬 to watch molecules move, and build ML models 📈 to predict chemical properties. My pipelines screen thousands of compounds 🎛️ and crunch big chemical data 📌 to discover new insights. I develop tools in Python and C++ 🛠️ to analyze all the things about molecules! My chemistry spells and algorithms transform raw data into molecular insights. Let's use the power of computation to advance medicines, materials and more! 🚀
+👋 Hi, there welcome to my GitHub! I'm a computational chemistry wizard 🧙‍♂️ obsessed with understanding molecules through data 📊! I perform quantum calculations 🤯 to see electrons dance, run molecular simulations 🔬 to watch molecules move, and build ML models 📈 to predict chemical properties. My computational pipelines screen thousands of compounds 🎛️ and crunch big chemical data 📌 to discover new insights. I develop tools in Python and C++ 🛠️ to analyze all the things about molecules! My chemistry spells and algorithms transform raw data into molecular insights. Let's use the power of computation to advance medicines, materials and more! 🚀
 
 | Repository Name | Brief Summary | 🔗 Link | 🔧 Skills |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -25,9 +25,10 @@
 - **Diploma in Full Stack Web Design and Development,** eZone Academy, New Delhi, India
 
 ## 🏆 Certifications
-- Data Science with Python (Simplilearn)
-- Fundamental of Accelerated Computing with CUDA Python (NVIDIA)
-- Information Security & Ethical Hacking (Appin Technology Lab)
+- Introduction to Cheminformatics and Medicinal Chemistry, [Udemy](https://www.udemy.com/certificate/UC-56859456-f26c-43e6-b3fb-1671771b8bdc/)
+- Data Science with Python [Simplilearn](https://simpli-web.app.link/e/XBPnNuKeIDb)
+- Fundamental of Accelerated Computing with CUDA Python [NVIDIA](https://courses.nvidia.com/certificates/100ff3c225294722bf28d336aa55fa4c/)
+- Information Security & Ethical Hacking [Appin Technology Lab](http://www.appintechnology.in/)
 
 ## 💼 Work Experience
 | 🏢 Company & Role | 📍 Location & Date | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
@@ -39,18 +40,22 @@
 | **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India<br>(Aug.2017 – Nov.2017) | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
 | **National Institute of Technology**<br>*Research Assistant* | Rourkela, India<br>(July 2016 – July.2017) | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
 
-## 📚 Publications
-- **Peer-Reviewed Journals (In preparation)**
-  - [Harnessing the Power of GPUs and CPUs for Cost-effective Fluorescence Spectra of Molecules in Condensed Phase](#) **Ajay Khanna**, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, 2023
-  
+## 📚 Publications [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en)
+- **Peer-Reviewed Journals (On Going)**
+  - **Ajay Khanna**, Christine M. Isborn, Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET, Fall 2024
+
+- **Peer-Reviewed Journals (In Press)**
+   - **Ajay Khanna**, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, Combining [Ensemble and Franck-Condon Methods to Compute Absorption and Fluorescence Spectra of Molecules in Explicit Environment](https://chemrxiv.org/engage/chemrxiv/article-details/6634160e418a5379b04b95f0), Spring 2024 (In Journal of Chemical Physics (JCP) Press, [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6634160e418a5379b04b95f0))
+   - Christopher A. Myers, Shao-Yu Lu, Sapana Shedge, Arthur Pyuskulyan, Katherine Donahoe, **Ajay Khanna**, Liang Shi, and Christine M. Isborn, Axial H-bonding Solvent Controls Inhomogeneous Spectral Broadening, Peripherial H-bonding Solvent Controls Vibronic Broadening: Cresyl Violet in Methanol (JCP Press)
 - **Peer-Reviewed Journals (Published)**
-    - [Molecular Polariton Electroabsorption, Nature Communication](https://www.nature.com/articles/s41467-022-35589-4) Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, **Ajay Khanna**, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, and Noel C. Giebink, Nat Commun 13, 7937, 2022, DOI:10.1038/s41467-022-35589-4
-    - [Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy, Journal of Chemical Physics](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in) Sapana V. Shedge, Tim J. Zuehlsdorff **Ajay Khanna**, Stacey Conley, and Christine M. Isborn, J. Chem. Phys. 154, 084116, 2021, DOI: 10.1063/5.0038196
-    - [Ligand Driven Electron Counting Rule Selection: A Case Study for Ge5R Complex, Int. J. Hit. Tranc: Eccn.](https://www.researchgate.net/publication/326942324_Ligand_Driven_Electron_Counting_Rule_Selection_A_Case_Study_for_Ge5R_Complex) Rakesh Parida, G. Naresh Reddy, **Ajay Khanna**, Gourisankar Roymahapatra and Santanab Giri, Int. J. Hit. Tranc: Eccn. Vol.4: Issue 1A, 2018, ISSN: 0973-6875
+    - Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, **Ajay Khanna**, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, and Noel C. Giebink [Molecular Polariton Electroabsorption, Nature Communication](https://www.nature.com/articles/s41467-022-35589-4) , Nat Commun 13, 7937, 2022, DOI:10.1038/s41467-022-35589-4
+    - Sapana V. Shedge, Tim J. Zuehlsdorff **Ajay Khanna**, Stacey Conley, and Christine M. Isborn [Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy, Journal of Chemical Physics](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in) , J. Chem. Phys. 154, 084116, 2021, DOI: 10.1063/5.0038196
+    - Rakesh Parida, G. Naresh Reddy, **Ajay Khanna**, Gourisankar Roymahapatra and Santanab Giri [Ligand Driven Electron Counting Rule Selection: A Case Study for Ge5R Complex, Int. J. Hit. Tranc: Eccn.](https://www.researchgate.net/publication/326942324_Ligand_Driven_Electron_Counting_Rule_Selection_A_Case_Study_for_Ge5R_Complex) , Int. J. Hit. Tranc: Eccn. Vol.4: Issue 1A, 2018, ISSN: 0973-6875
 
 ## 🌐 Social Media Presence
 - **LinkedIn:** [Ajay Khanna](https://www.linkedin.com/in/ajay-khanna/)
 - **Twitter:** [@Samdig](https://twitter.com/Samdig)
-- **ResearchGate:** [Ajay Khanna, RIScore: 39](https://www.researchgate.net/profile/Ajay-Khanna-2)
+- **ResearchGate:** [Ajay Khanna, RIScore: 44.4](https://www.researchgate.net/profile/Ajay-Khanna-2)
+- **Citations**: 24
 
 ![](https://komarev.com/ghpvc/?username=Ajaykhanna&style=for-the-badge)
