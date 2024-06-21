@@ -43,7 +43,7 @@
 ## 📚 Publications [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393) 
 |:books: Title |:ledger: Journal |:calendar: Year |:chart_with_upwards_trend: Citations |
 |--------------|---------|------|-----------|
-| <u>**Ajay Khanna**</u>, Christine M. Isborn, [Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET]() | Journal of Physical Chemistry | 2024 | - |
+| <u>**Ajay Khanna**</u>, Christine M. Isborn, Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET (In Progress) | Journal of Physical Chemistry | 2024 | - |
 | <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, [Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://chemrxiv.org/engage/chemrxiv/article-details/6634160e418a5379b04b95f0) | Journal of Chemical Physics | 2024 | - |
 |  Christopher A. Myers, Shao-Yu Lu, Sapana Shedge, Arthur Pyuskulyan, Katherine Donahoe, <u>**Ajay Khanna**</u>, Liang Shi, and Christine M. Isborn, [Axial H-bonding Solvent Controls Inhomogeneous Spectral Broadening, Peripherial H-bonding Solvent Controls Vibronic Broadening: Cresyl Violet in Methanol](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c01401) | The Journal of Physical Chemistry B | 2023 | - |
 | Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, and Noel C. Giebink, [Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4) | Nature Communication | 2022 | 8 |
