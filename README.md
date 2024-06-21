@@ -53,7 +53,7 @@
 ## 🌐 Social Media Presence
 - **LinkedIn:** [Ajay Khanna](https://www.linkedin.com/in/ajay-khanna/)
 - **Twitter:** [@Samdig](https://twitter.com/Samdig)
-- **ResearchGate:** [Ajay Khanna, RIScore: 44.4](https://www.researchgate.net/profile/Ajay-Khanna-2)
+- **ResearchGate:** [Ajay Khanna, RIScore: 46.3](https://www.researchgate.net/profile/Ajay-Khanna-2)
 - **Citations**: 24
 
 ![](https://komarev.com/ghpvc/?username=Ajaykhanna&style=for-the-badge)
