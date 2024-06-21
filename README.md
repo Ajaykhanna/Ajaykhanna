@@ -40,8 +40,8 @@
 | **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India<br>(Aug.2017 – Nov.2017) | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
 | **National Institute of Technology**<br>*Research Assistant* | Rourkela, India<br>(July 2016 – July.2017) | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
 
-## 📚 Publications [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en)
-|:books: #### Title |:ledger: #### Journal |:calendar: #### Year |:satellite: #### DOI |:chart_with_upwards_trend: #### Citations |
+## 📚 Publications [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393) 
+|:books: Title |:ledger: Journal |:calendar: Year |:satellite: DOI |:chart_with_upwards_trend: Citations |
 |-------|---------|------|-----|-----------|
 | <u>**Ajay Khanna**</u>, Christine M. Isborn, Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET | Journal of Physical Chemistry | 2024 | [DOI: Arriving]() | - |
 | <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods, | Journal of Chemical Physics | 2024 | [DOI:10.1021/acs.jpcb.4c01401](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c01401) | - |
