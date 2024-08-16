@@ -1,6 +1,6 @@
 # Ajay Khanna
-### 🎓 Ph.D. Candidate | 🧪 Computational Chemist
-  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](#coming-soon) | 
+### 🎓 Ph.D. | 🧪 Computational Chemist | [Citations](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en): 24 | [RGScore](https://www.researchgate.net/profile/Ajay-Khanna-2): 48.3
+  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](#coming-soon) 
 
 ## 🌟 About Me
 👋 Hi, there welcome to my GitHub! I'm a computational chemistry wizard 🧙‍♂️ obsessed with understanding molecules through data 📊! I perform quantum calculations 🤯 to see electrons dance, run molecular simulations 🔬 to watch molecules move, and build ML models 📈 to predict chemical properties. The computational pipelines I develop screens thousands of compounds 🎛️ and crunch big chemical data 📌 to discover new insights. I develop tools in Python and C++ 🛠️ to analyze all the things about molecules! My chemistry spells and algorithms transform raw data into molecular insights. Let's use the power of computation to advance medicines, materials and more! 🚀
@@ -16,18 +16,23 @@
 |[MD & QM Software](https://github.com/Ajaykhanna/PythonProjects) 🧮| Get hands-on with popular software in molecular dynamics and quantum mechanics for high throughput research. | [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4 |
 |[OS and HPCs](https://github.com/Ajaykhanna/PythonProjects) 🖥️| Master operating systems and high-performance computing tools like Docker and Google Colab for efficient workflows.| Linux, Windows, and Mac-OS, Docker, Singularity, Google Colab, and HPC |
 
-## 🎓 Education
-- **Ph.D. Candidate in Computational Chemistry,** University of California, Merced
-- **M.Sc. Chemistry and Chemical Biology,** University of California, Merced
-- **M.Sc. Chemistry,** National Institute of Technology (NIT), Rourkela, India
-- **B.Sc. Chemistry (Hons.),** University of Delhi, New Delhi, India
-- **Diploma in Full Stack Web Design and Development,** eZone Academy, New Delhi, India
+## 🎓 Education & Academic Journey
 
-## 🏆 Certifications
-- Introduction to Cheminformatics and Medicinal Chemistry, [Udemy](https://www.udemy.com/certificate/UC-56859456-f26c-43e6-b3fb-1671771b8bdc/)
-- Data Science with Python [Simplilearn](https://simpli-web.app.link/e/XBPnNuKeIDb)
-- Fundamental of Accelerated Computing with CUDA Python [NVIDIA](https://courses.nvidia.com/certificates/100ff3c225294722bf28d336aa55fa4c/)
-- Information Security & Ethical Hacking [Appin Technology Lab](http://www.appintechnology.in/)
+| Degree | Institution | Year | Focus |
+|--------|-------------|------|-------|
+| 🔬 Ph.D. <br>Computational Chemistry | University of California, Merced<br>![UCM](https://img.shields.io/badge/-UC%20Merced-002856?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC/SURBVHgBhVHLDcIwDH0uESdG6AhF4sgGZQVWaDsCI8AGZQVWgA0YgQNHkECiPJ9LWtGq6kOWndiO/WwrpRQFbO2Tic8ombHg1J0jwXHSZ4EDixWnbaWWBSzYqDB3YJ9jacG+EHjgTCYYghZaeXDLGRo4Q3+Yci6nt7GWQF/mhU1/sidCnlcNZEOmy/gZc1UBKW7PUKIKPZv7gSTb1Ofvz4xC2sLc2bYtpfiP+pOGVs6WdOGe99yBuhti2o2/TqB+5wUzWoQH5ZVbXwAAAABJRU5ErkJggg==) | 2018 - 2024 | AIMD, Fluorescence Spectroscopy, AIMD, Quantum Mechanics, High Throughput Screening, Machine Learning, and Resonance Energy Transfer |
+| 🧪 M.Sc.<br>Chemistry and Chemical Biology | University of California, Merced<br>![UCM](https://img.shields.io/badge/-UC%20Merced-002856?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC/SURBVHgBhVHLDcIwDH0uESdG6AhF4sgGZQVWaDsCI8AGZQVWgA0YgQNHkECiPJ9LWtGq6kOWndiO/WwrpRQFbO2Tic8ombHg1J0jwXHSZ4EDixWnbaWWBSzYqDB3YJ9jacG+EHjgTCYYghZaeXDLGRo4Q3+Yci6nt7GWQF/mhU1/sidCnlcNZEOmy/gZc1UBKW7PUKIKPZv7gSTb1Ofvz4xC2sLc2bYtpfiP+pOGVs6WdOGe99yBuhti2o2/TqB+5wUzWoQH5ZVbXwAAAABJRU5ErkJggg==) | 2018 - 2020 | Code development, Absorption and Fluorescence Spectroscopy, DFT Functional Benchmarks |
+| 🔬 M.Sc.<br>Chemistry | National Institute of Technology, Rourkela<br>![NIT](https://img.shields.io/badge/-NIT%20Rourkela-00529b?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBhVHBDYMwDLRDhU/HQOqIjMAGMEK7QekGZQNG6AawARvABmWDjtB+kOek5JE0tbCUyHf2nW0qpSSFw/n6vGNpwc3ZvwR7TwwheBVcwrWnHJBlwbZW3xJanCVZcAF3nIp8p9XDWRaQGc6sDTEm8JhTNrBkx5G6NTBm1vfRZQUuvK9aQ/IB/qrBxwqGMYQ5ecLKvZ+bwEY2Qx3R1SvYVdp/yqVUz6ZYeVdKhXwRKzkY45D/2pK0OvJfTaB+7gmZ8oIJiJEb9AAAAABJRU5ErkJggg==) | 2015 - 2017 | Advance Experiemental Chemistry, Computaitonal Chemistry, and Zintl Clusters|
+| 🧪 B.Sc.<br>Chemistry (Hons.) | University of Delhi<br>![DU](https://img.shields.io/badge/-University%20of%20Delhi-E30613?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC+SURBVHgBhVHLDYMwDH0uqMqpY1RIHKNjtB2h3aBsUDYoG2QDNigbwKVjcEFK89KEthdL+dnPz7aMMRK4XR6PqXOGPTNw6L7j+V7RgnQtIxiRZyG+6nkNoBCpLXCjvBQXHm0BO+UqnxAlm0vg8NQaeCM5ayACwY1kx1LCsQcpbr/Ppl7mzQCKZiRmGjLg2lmYKKT8HKGacdAiPc5rYiHybQh7HZcv8Bc8ukLvGEQr1qeJ2qMMv3+MqTf+qoHinRes+4R6u8z3IAAAAABJRU5ErkJggg==) | 2011 - 2015 | Core Experimental Chemistry: Basics to Advanced Synthetic Chemistry |
+| 💻 Diploma<br>Full Stack Web Design and Development | eZone Academy, New Delhi<br>![eZone](https://img.shields.io/badge/-eZone%20Academy-4CAF50?style=flat-square) | 2012-2013 | Web Development, UI/UX Design |
+
+## 🎓 Certifications
+| Certification | Issuing Organization | Year | Skills Acquired |
+|---------------|----------------------|------|-----------------|
+| 🧪 Introduction to Cheminformatics and Medicinal Chemistry | ![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white) Udemy | 2023 | Cheminformatics, Drug Discovery, QSAR |
+| 📊 Data Science with Python | ![Simplilearn](https://img.shields.io/badge/-Simplilearn-0073AA?style=flat-square) Simplilearn | 2022 | Python, Data Analysis, Machine Learning |
+| 🚀 Fundamentals of Accelerated Computing with CUDA Python | ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) NVIDIA | 2022 | CUDA, Parallel Computing, GPU Programming |
+| 🔒 Information Security & Ethical Hacking | ![Appin](https://img.shields.io/badge/-Appin%20Technology-FF6B6B?style=flat-square) Appin Technology Lab | 2011 | Cybersecurity, Ethical Hacking, Network Security |
 
 ## 💼 Work Experience
 | 🏢 Company & Role | 📍 Location & Date | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
@@ -43,7 +48,7 @@
 |:books: Title |:ledger: Journal |:calendar: Year |:chart_with_upwards_trend: Citations |
 |--------------|---------|------|-----------|
 | <u>**Ajay Khanna**</u>, Christine M. Isborn, Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET (In Progress) | Journal of Physical Chemistry | 2024 | - |
-| <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, [Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://chemrxiv.org/engage/chemrxiv/article-details/6634160e418a5379b04b95f0) | Journal of Chemical Physics | 2024 | - |
+| <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, [Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://doi.org/10.1063/5.0217080) | Journal of Chemical Physics | 2024 | - |
 |  Christopher A. Myers, Shao-Yu Lu, Sapana Shedge, Arthur Pyuskulyan, Katherine Donahoe, <u>**Ajay Khanna**</u>, Liang Shi, and Christine M. Isborn, [Axial H-bonding Solvent Controls Inhomogeneous Spectral Broadening, Peripherial H-bonding Solvent Controls Vibronic Broadening: Cresyl Violet in Methanol](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c01401) | The Journal of Physical Chemistry B | 2024 | - |
 | Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, and Noel C. Giebink, [Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4) | Nature Communication | 2022 | 8 |
 | Sapana V. Shedge, Tim J. Zuehlsdorff, <u>**Ajay Khanna**</u>, Stacey Conley, and Christine M. Isborn, [Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in) | Journal of Chemical Physics | 2021 | 14 |
@@ -52,7 +57,5 @@
 ## 🌐 Social Media Presence
 - **LinkedIn:** [Ajay Khanna](https://www.linkedin.com/in/ajay-khanna/)
 - **Twitter:** [@Samdig](https://twitter.com/Samdig)
-- **ResearchGate:** [Ajay Khanna, RIScore: 46.3](https://www.researchgate.net/profile/Ajay-Khanna-2)
-- **Citations**: 24
 
 ![](https://komarev.com/ghpvc/?username=Ajaykhanna&style=for-the-badge)
