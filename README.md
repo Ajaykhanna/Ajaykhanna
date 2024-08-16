@@ -16,6 +16,47 @@
 |[MD & QM Software](https://github.com/Ajaykhanna/PythonProjects) 🧮| Get hands-on with popular software in molecular dynamics and quantum mechanics for high throughput research. | [Amber](https://github.com/Ajaykhanna/Amber-Organic-Solvent-Box), OpenMM, Gromacs, VMD, MOE, TeraChem, Gaussian, Qubekit, Psi4 |
 |[OS and HPCs](https://github.com/Ajaykhanna/PythonProjects) 🖥️| Master operating systems and high-performance computing tools like Docker and Google Colab for efficient workflows.| Linux, Windows, and Mac-OS, Docker, Singularity, Google Colab, and HPC |
 
+## 💼 Work Experience
+| 🏢 Company & Role | 📍 Location | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
+|-------------------|--------------------|--------------|---------|-----------|----------|
+| **Frontier Medicines**<br>*Intern, CADD* | South San Francisco, CA, USA | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
+| **UC Merced**<br>*Graduate Student Researcher* | Merced, CA, USA | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, comming soon | Full-stack UV-Visible Spectroscopy, Code development, hybrid QM/MM sampling methods,  Excitation Energy Transfer Processes|
+| **UC Merced**<br>*Teaching Assistant* | Merced, CA, USA | First-generation students needed guidance in chemistry courses. | Teach and prepare materials. | Taught courses and developed worksheet materials. | Successfully educated first-generation students over four years. |
+| **Indian Institute of Science**<br>*Research Intern* | Bangalore, India | Need to reproduce experimental spectra of Alexa Fluor dyes. | Reproduce spectra using computational techniques. | Used fundamental spectroscopy and Gaussian calculations. | Successfully reproduced experimental spectra. |
+| **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
+| **National Institute of Technology**<br>*Research Assistant* | Rourkela, India | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
+
+### 🌟 Featured Publications | [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393)
+
+1. **Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET** (In Progress)
+   <u>**Ajay Khanna**</u>, Christine M. Isborn
+   *Peer-reviewed Journal* (Comming soon, 2024)
+   ![JPC](https://img.shields.io/badge/-ongoing-193E4C?style=flat-square)
+   
+   > Exploring advanced FRET processes in complex solvent environments to enhance energy transfer predictions in molecular systems.
+
+2. **[Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://chemrxiv.org/engage/chemrxiv/article-details/6634160e418a5379b04b95f0)**
+   <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, Christine M. Isborn
+   *Journal of Chemical Physics* (2024)
+   ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=flat-square)
+   
+   > Novel computational approach for accurate prediction of absorption and fluorescence spectra in solution, advancing spectroscopic analysis techniques.
+
+3. **[Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4)**
+   Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, Noel C. Giebink
+   *Nature Communication* (2022)
+   ![Nature Comm](https://img.shields.io/badge/-Nature%20Comm.-004D40?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-8-brightgreen?style=flat-square)
+   
+   > Groundbreaking study on molecular polariton electroabsorption, opening new avenues in optoelectronics and quantum technology.
+
+4. **[Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in)**
+   Sapana V. Shedge, Tim J. Zuehlsdorff, <u>**Ajay Khanna**</u>, Stacey Conley, Christine M. Isborn
+   *Journal of Chemical Physics* (2021)
+   ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-14-brightgreen?style=flat-square)
+   
+   > Comprehensive exploration of environmental and vibronic effects in optical spectroscopy simulations, enhancing accuracy in molecular property predictions.
+
+
 ## 🎓 Education & Academic Journey
 
 | Degree | Institution | Year | Focus |
@@ -33,26 +74,6 @@
 | 📊 Data Science with Python | ![Simplilearn](https://img.shields.io/badge/-Simplilearn-0073AA?style=flat-square) Simplilearn | 2022 | Python, Data Analysis, Machine Learning |
 | 🚀 Fundamentals of Accelerated Computing with CUDA Python | ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) NVIDIA | 2022 | CUDA, Parallel Computing, GPU Programming |
 | 🔒 Information Security & Ethical Hacking | ![Appin](https://img.shields.io/badge/-Appin%20Technology-FF6B6B?style=flat-square) Appin Technology Lab | 2011 | Cybersecurity, Ethical Hacking, Network Security |
-
-## 💼 Work Experience
-| 🏢 Company & Role | 📍 Location & Date | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
-|-------------------|--------------------|--------------|---------|-----------|----------|
-| **Frontier Medicines**<br>*Intern, CADD* | South San Francisco, CA, USA<br>(May 2023 – Aug 2023) | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
-| **UC Merced**<br>*Graduate Student Researcher* | Merced, CA, USA<br>(Aug.2018 - Spring.2024) | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, comming soon | Full-stack UV-Visible Spectroscopy, Code development, hybrid QM/MM sampling methods,  Excitation Energy Transfer Processes|
-| **UC Merced**<br>*Teaching Assistant* | Merced, CA, USA<br>(Aug.2018 – Dec.2022) | First-generation students needed guidance in chemistry courses. | Teach and prepare materials. | Taught courses and developed worksheet materials. | Successfully educated first-generation students over four years. |
-| **Indian Institute of Science**<br>*Research Intern* | Bangalore, India<br>(Jan.2018 – July.2018) | Need to reproduce experimental spectra of Alexa Fluor dyes. | Reproduce spectra using computational techniques. | Used fundamental spectroscopy and Gaussian calculations. | Successfully reproduced experimental spectra. |
-| **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India<br>(Aug.2017 – Nov.2017) | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
-| **National Institute of Technology**<br>*Research Assistant* | Rourkela, India<br>(July 2016 – July.2017) | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
-
-## 📚 Publications [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393) 
-|:books: Title |:ledger: Journal |:calendar: Year |:chart_with_upwards_trend: Citations |
-|--------------|---------|------|-----------|
-| <u>**Ajay Khanna**</u>, Christine M. Isborn, Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET (In Progress) | Journal of Physical Chemistry | 2024 | - |
-| <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, and Christine M. Isborn, [Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://doi.org/10.1063/5.0217080) | Journal of Chemical Physics | 2024 | - |
-|  Christopher A. Myers, Shao-Yu Lu, Sapana Shedge, Arthur Pyuskulyan, Katherine Donahoe, <u>**Ajay Khanna**</u>, Liang Shi, and Christine M. Isborn, [Axial H-bonding Solvent Controls Inhomogeneous Spectral Broadening, Peripherial H-bonding Solvent Controls Vibronic Broadening: Cresyl Violet in Methanol](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c01401) | The Journal of Physical Chemistry B | 2024 | - |
-| Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, and Noel C. Giebink, [Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4) | Nature Communication | 2022 | 8 |
-| Sapana V. Shedge, Tim J. Zuehlsdorff, <u>**Ajay Khanna**</u>, Stacey Conley, and Christine M. Isborn, [Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in) | Journal of Chemical Physics | 2021 | 14 |
-| Rakesh Parida, G. Naresh Reddy, <u>**Ajay Khanna**</u>, Gourisankar Roymahapatra and Santanab Giri, [Ligand Driven Electron Counting Rule Selection: A Case Study for Ge5R Complex](https://www.hittransaction.in/journals/4_1A/41A_01.pdf) | Int. J. Hit. Tranc: Eccn. | 2018 | 1 |
 
 ## 🌐 Social Media Presence
 - **LinkedIn:** [Ajay Khanna](https://www.linkedin.com/in/ajay-khanna/)
