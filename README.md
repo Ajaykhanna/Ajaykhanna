@@ -1,6 +1,6 @@
 # Ajay Khanna
 ### 🧪 Computational Chemist (🎓 Ph.D.) | [Citations](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en): 24 | [RGScore](https://www.researchgate.net/profile/Ajay-Khanna-2): 48.3
-  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](#coming-soon) | [Twitter](https://twitter.com/Samdig)
+  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](https://ajaykhanna.github.io/ajay-khanna.github.io/) | [Twitter](https://twitter.com/Samdig)
 
 ## 🌟 About Me
 👋 Hi, there welcome to my GitHub! I'm a computational chemistry wizard 🧙‍♂️ obsessed with understanding molecules through data 📊! I perform quantum calculations 🤯 to see electrons dance, run molecular simulations 🔬 to watch molecules move, and build ML models 📈 to predict chemical properties. The computational pipelines I develop screens thousands of compounds 🎛️ and crunch big chemical data 📌 to discover new insights. I develop tools in Python and C++ 🛠️ to analyze all the things about molecules! My chemistry spells and algorithms transform raw data into molecular insights. Let's use the power of computation to advance medicines, materials and more! 🚀
