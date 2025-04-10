@@ -1,5 +1,4 @@
-# Ajay Khanna
-## 🧪 Computational Chemist (🎓 Ph.D.) | [Citations](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en): 35 | [RGScore](https://www.researchgate.net/profile/Ajay-Khanna-2): 57.4
+## Ajay Khanna  | 🧪 Computational Chemist (🎓 Ph.D.)
   📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](https://ajaykhanna.github.io//) | [Twitter](https://twitter.com/Samdig)
 
 ## 🌟 About Me
@@ -23,7 +22,7 @@
 | **Frontier Medicines South San Francisco, CA, USA**<br>*Intern, CADD* | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
 | **UC Merced Merced, CA, USA**<br>*Doctoral Researcher* | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, coming soon | Full-stack UV-Visible Spectroscopy, Code development, hybrid QM/MM sampling methods,  Excitation Energy Transfer Processes|
 
-### 🌟 Featured Publications | [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393)
+### 🌟 Featured Publications | [Google Scholar, Cite: 35](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate, RGScore: 57.4](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393)
 
 1. **Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET** (In Progress)
    <u>**Ajay Khanna**</u>, Christine M. Isborn
