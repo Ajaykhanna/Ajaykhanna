@@ -68,6 +68,5 @@
 | 🧪 Introduction to Cheminformatics and Medicinal Chemistry | ![Udemy](https://img.shields.io/badge/-Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white) Udemy | 2023 | Cheminformatics, Drug Discovery, QSAR |
 | 📊 Data Science with Python | ![Simplilearn](https://img.shields.io/badge/-Simplilearn-0073AA?style=flat-square) Simplilearn | 2022 | Python, Data Analysis, Machine Learning |
 | 🚀 Fundamentals of Accelerated Computing with CUDA Python | ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) NVIDIA | 2022 | CUDA, Parallel Computing, GPU Programming |
-| 🔒 Information Security & Ethical Hacking | ![Appin](https://img.shields.io/badge/-Appin%20Technology-FF6B6B?style=flat-square) Appin Technology Lab | 2011 | Cybersecurity, Ethical Hacking, Network Security |
 
 ![](https://komarev.com/ghpvc/?username=Ajaykhanna&style=for-the-badge)
