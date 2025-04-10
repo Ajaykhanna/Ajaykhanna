@@ -1,11 +1,14 @@
 # Ajay Khanna
-### 🧪 Computational Chemist (🎓 Ph.D.) | [Citations](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en): 34 | [RGScore](https://www.researchgate.net/profile/Ajay-Khanna-2): 57.4
-  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](https://ajaykhanna.github.io/ajay-khanna.github.io/) | [Twitter](https://twitter.com/Samdig)
 
+## 🧪 Computational Chemist (🎓 Ph.D.) | [Citations](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en): 35 | [RGScore](https://www.researchgate.net/profile/Ajay-Khanna-2): 57.4
+
+  📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](https://ajaykhanna.github.io//) | [Twitter](https://twitter.com/Samdig)
 
 ## 🌟 About Me
+
 👋 Hi, there welcome to my GitHub! I'm a computational chemistry wizard 🧙‍♂️ obsessed with understanding molecules through data 📊! I perform quantum calculations 🤯 to see electrons dance, run molecular simulations 🔬 to watch molecules move, and build ML models 📈 to predict chemical properties. The computational pipelines I develop screens thousands of compounds 🎛️ and crunch big chemical data 📌 to discover new insights. I develop tools in Python and C++ 🛠️ to analyze all the things about molecules! My chemistry spells and algorithms transform raw data into molecular insights. Let’s harness the power of computation to advance medicines, materials and more! 🚀
-|:briefcase: Repository |:page_with_curl: Brief Summary | 🔧 Skills |
+
+| :briefcase: Repository | :page_with_curl: Brief Summary | 🔧 Skills |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |[Molecular Dynamics](https://github.com/Ajaykhanna/Molecular_Dynamics_101) (MD) 🚀| Dive deep into the world of Molecular Dynamics with everything MD. | Classical MD, Enhanced sampling MD, Ab Initio MD |
 |[Quantum Mechanics](https://github.com/Ajaykhanna/Quantum_Mechanics_101) (QM) :electron:| Explore the intricacies of Quantum Mechanics with methods like HF, DFT, and applications in spectroscopy. | HF, DFT, Torsional Analysis, Geometry Optimization, Spectroscopy: IR and UV-Visible, Solvent Chemistry, Charge Analysis |
@@ -18,15 +21,22 @@
 |[OS and HPCs](https://github.com/Ajaykhanna/PythonProjects) 🖥️| Master operating systems and high-performance computing tools like Docker and Google Colab for efficient workflows.| Linux, Windows, and Mac-OS, Docker, Singularity, Google Colab, and HPC |
 
 ## 💼 Work Experience
+
 | 🏢 Company & Role | 📍 Location | 🌐 Situation | 🎯 Task | 🛠️ Action | 🌟 Result |
 |-------------------|--------------------|--------------|---------|-----------|----------|
 | **Los Alamos National Laboratory (LANL)** <br>*Postdoctoral Research Associate* | Los Alamos, NM, USA | Aiming to enhance X-ray technology and implement ML-NAMD for energy transfer processes. | Developing advanced methods for X-ray Circular Dichroism (XCD) and accelerating Non-Adiabatic Molecular Dynamics (NAMD) using Interatomic Machine Learning Potentials and Active Learning techniques. | Pending | Anticipatin advancements in X-ray technology and ML-NAMD ||
-| **Frontier Medicines**<br>*Intern, CADD* | South San Francisco, CA, USA | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
-| **UC Merced**<br>*Graduate Student Researcher* | Merced, CA, USA | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, coming soon | Full-stack UV-Visible Spectroscopy, Code development, hybrid QM/MM sampling methods,  Excitation Energy Transfer Processes|
-| **UC Merced**<br>*Teaching Assistant* | Merced, CA, USA | First-generation students needed guidance in chemistry courses. | Teach and prepare materials. | Taught courses and developed worksheet materials. | Successfully educated first-generation students over four years. |
-| **Indian Institute of Science**<br>*Research Intern* | Bangalore, India | Need to reproduce experimental spectra of Alexa Fluor dyes. | Reproduce spectra using computational techniques. | Used fundamental spectroscopy and Gaussian calculations. | Successfully reproduced experimental spectra. |
-| **Indian Association for the Cultivation Science**<br>*Research Intern* | Kolkata, India | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
-| **National Institute of Technology**<br>*Research Assistant* | Rourkela, India | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
+| **Frontier Medicines** 
+*Intern, CADD* | South San Francisco, CA, USA | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
+| **UC Merced** 
+*Graduate Student Researcher* | Merced, CA, USA | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, coming soon | Full-stack UV-Visible Spectroscopy, Code development, hybrid QM/MM sampling methods,  Excitation Energy Transfer Processes|
+| **UC Merced** 
+*Teaching Assistant* | Merced, CA, USA | First-generation students needed guidance in chemistry courses. | Teach and prepare materials. | Taught courses and developed worksheet materials. | Successfully educated first-generation students over four years. |
+| **Indian Institute of Science** 
+*Research Intern* | Bangalore, India | Need to reproduce experimental spectra of Alexa Fluor dyes. | Reproduce spectra using computational techniques. | Used fundamental spectroscopy and Gaussian calculations. | Successfully reproduced experimental spectra. |
+| **Indian Association for the Cultivation Science** 
+*Research Intern* | Kolkata, India | Need a method to generate unique metal clusters. | Develop computational procedure for 3D DNA origami structures. | Used Cadnano and oxDNA. | Successfully generated unique DNA origami structures and computational procedure. |
+| **National Institute of Technology** 
+*Research Assistant* | Rourkela, India | Proving 18-electron rule's ability for Zintl ions was unproven. | Conduct quantum mechanical investigations. | Conducted study of Zintl phases. | Demonstrated 18-electron rule's ability to design better Zintl ions. |
 
 ### 🌟 Featured Publications | [Google Scholar](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393)
 
@@ -34,31 +44,34 @@
    <u>**Ajay Khanna**</u>, Christine M. Isborn
    *Peer-reviewed Journal* (Comming soon, 2024)
    ![JPC](https://img.shields.io/badge/-ongoing-193E4C?style=flat-square)
-   
    > Exploring advanced FRET processes in complex solvent environments to enhance energy transfer predictions in molecular systems.
 
 2. **[Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://doi.org/10.1063/5.0217080)**
    <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, Christine M. Isborn
    *Journal of Chemical Physics* (2024)
    ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-2-brightgreen?style=flat-square)
-   
    > Novel computational approach for accurate prediction of absorption and fluorescence spectra in solution, advancing spectroscopic analysis techniques.
 
 3. **[Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4)**
    Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, Noel C. Giebink
    *Nature Communication* (2022)
    ![Nature Comm](https://img.shields.io/badge/-Nature%20Comm.-004D40?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-16-brightgreen?style=flat-square)
-   
    > Novel study on molecular polariton electroabsorption, opening new avenues in optoelectronics and quantum technology.
 
 4. **[Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in)**
    Sapana V. Shedge, Tim J. Zuehlsdorff, <u>**Ajay Khanna**</u>, Stacey Conley, Christine M. Isborn
-   *Journal of Chemical Physics* (2021)
-   ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-15-brightgreen?style=flat-square)
-   
-   > Comprehensive exploration of environmental and vibronic effects in optical spectroscopy simulations, enhancing accuracy in molecular property predictions.
-
-
+| Degree | Institution | Year | Focus |
+|--------|-------------|------|-------|
+| 🔬 Ph.D.  
+Computational Chemistry | University of California, Merced 
+![UCM](https://img.shields.io/badge/-UC%20Merced-002856?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC/SURBVHgBhVHLDcIwDH0uESdG6AhF4sgGZQVWaDsCI8AGZQVWgA0YgQNHkECiPJ9LWtGq6kOWndiO/WwrpRQFbO2Tic8ombHg1J0jwXHSZ4EDixWnbaWWBSzYqDB3YJ9jacG+EHjgTCYYghZaeXDLGRo4Q3+Yci6nt7GWQF/mhU1/sidCnlcNZEOmy/gZc1UBKW7PUKIKPZv7gSTb1Ofvz4xC2sLc2bYtpfiP+pOGVs6WdOGe99yBuhti2o2/TqB+5wUzWoQH5ZVbXwAAAABJRU5ErkJggg==) | 2018 - 2024 | AIMD, Fluorescence Spectroscopy, AIMD, Quantum Mechanics, High Throughput Screening, Machine Learning, and Resonance Energy Transfer |
+| 🔬 M.Sc. 
+Chemistry | National Institute of Technology, Rourkela 
+![NIT](https://img.shields.io/badge/-NIT%20Rourkela-00529b?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBhVHBDYMwDLRDhU/HQOqIjMAGMEK7QekGZQNG6AawARvABmWDjtB+kOek5JE0tbCUyHf2nW0qpSSFw/n6vGNpwc3ZvwR7TwwheBVcwrWnHJBlwbZW3xJanCVZcAF3nIp8p9XDWRaQGc6sDTEm8JhTNrBkx5G6NTBm1vfRZQUuvK9aQ/IB/qrBxwqGMYQ5ecLKvZ+bwEY2Qx3R1SvYVdp/yqVUz6ZYeVdKhXwRKzkY45D/2pK0OvJfTaB+7gmZ8oIJiJEb9AAAAABJRU5ErkJggg==) | 2015 - 2017 | Advanced Experimental Chemistry, Computaitonal Chemistry, and Zintl Clusters|
+| 💻 Diploma 
+Web Design and Development | eZone Academy, New Delhi 
+![eZone](https://img.shields.io/badge/-eZone%20Academy-4CAF50?style=flat-square) | 2012-2013 | Web Development, UI/UX Design |
+</details>
 ## 🎓 Education
 | Degree | Institution | Year | Focus |
 |--------|-------------|------|-------|
