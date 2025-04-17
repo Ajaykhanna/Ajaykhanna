@@ -1,5 +1,4 @@
 ![Header Image](github-header-image.png)
-## Ajay Khanna  | 🧪 Computational Chemist (🎓 Ph.D.)
   📩 [Email](mailto:akhanna2@ucmerced.edu) | 📝 [LinkedIn](https://www.linkedin.com/in/ajay-khanna/) | 🌐 [Portfolio](https://ajaykhanna.github.io//) | [Twitter](https://twitter.com/Samdig)
 
 ## 🌟 About Me
