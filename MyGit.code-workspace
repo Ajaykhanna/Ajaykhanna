@@ -6,6 +6,10 @@
 		{
 			"name": "Machine_Learning_with_Chemistry",
 			"path": "../Machine_Learning_with_Chemistry"
+		},
+		{
+			"name": "Image_Converter-1",
+			"path": "../Image_Converter-1"
 		}
 	],
 	"settings": {}
