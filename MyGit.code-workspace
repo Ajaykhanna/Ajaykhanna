@@ -12,5 +12,7 @@
 			"path": "../Image_Converter-1"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MyGit"
+	}
 }

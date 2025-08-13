@@ -22,35 +22,27 @@
 | **Frontier Medicines South San Francisco, CA, USA**<br>*Intern, CADD* | Needed a streamlined process for SMILES to desolvation energy and ligand-binding free energy calculations for BTK inhibitors. | Develop Python programs and pipelines. | Created Python programs using AFEP/TI techniques and OpenMM; learned ligand-based docking in MOE. | Streamlined ligand-binding free energy calculations. |
 | **UC Merced Merced, CA, USA**<br>*Doctoral Researcher* | Gap in understanding environmental effects on molecular properties. | Develop computational methods to model experimental spectra. | Developed methods using AIMD, Collaborated on the Polariton project, performed MD and QM simulations and much more, coming soon | Full-stack UV-Visible Spectroscopy, Code development, hybrid QM/MM sampling methods,  Excitation Energy Transfer Processes|
 
-### 🌟 Featured Publications | [Google Scholar, Cite: 35](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate, RGScore: 57.4](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID](https://orcid.org/0000-0002-8313-1393)
+### 🌟 Featured Publications | [Google Scholar, Cite: 43](https://scholar.google.com/citations?user=qJM0sOIAAAAJ&hl=en) | [ResearchGate, RGScore: 60.6](https://www.researchgate.net/profile/Ajay-Khanna-2) | [ORCID: 0000-0002-8313-1393](https://orcid.org/0000-0002-8313-1393)
+1. **[Deconstructing Chirality: Probing Local and Non-local Effects in Azobenzene Derivatives with X-ray Circular Dichroism](https://doi.org/10.26434/chemrxiv-2025-vp7qf)** ![Submitted](https://img.shields.io/badge/-Submitted-193E4C?style=round-square) ![ChemRxiv](https://img.shields.io/badge/-ChemRxiv-193E4C?style=round-square)\
+   <u>**Ajay Khanna**</u>, Victor M. Freixas, Lei Xu, Jeremy R. Rouxel, Niranjan Govind, Marco Garavelli, Shaul Mukamel, and Sergei Tretiak, 2025
+   > Site-specific X-ray spectroscopy to deconstruct molecular chirality, establishing a new framework for engineering chiroptical signals to design functional molecular machines.
 
-1. **Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET** (In Progress)
-   <u>**Ajay Khanna**</u>, Christine M. Isborn
-   *Peer-reviewed Journal* (Comming soon, 2024)
-   ![JPC](https://img.shields.io/badge/-ongoing-193E4C?style=flat-square)
-   
-   > Exploring advanced FRET processes in complex solvent environments to enhance energy transfer predictions in molecular systems.
-
-2. **[Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://doi.org/10.1063/5.0217080)**
-   <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, Christine M. Isborn
-   *Journal of Chemical Physics* (2024)
-   ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-2-brightgreen?style=flat-square)
-   
+2. **[Calculating Absorption and Fluorescence Spectra for Chromophores in Solution with Ensemble Franck-Condon Methods](https://doi.org/10.1063/5.0217080)** ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=round-square) ![Citations](https://img.shields.io/badge/Citations-2-brightgreen?style=round-square)\
+   <u>**Ajay Khanna**</u>, Sapana V. Shedge, Tim J. Zuehlsdorff, Christine M. Isborn, *Journal of Chemical Physics* (2024)
    > Novel computational approach for accurate prediction of absorption and fluorescence spectra in solution, advancing spectroscopic analysis techniques.
 
-3. **[Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4)**
-   Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, Noel C. Giebink
-   *Nature Communication* (2022)
-   ![Nature Comm](https://img.shields.io/badge/-Nature%20Comm.-004D40?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-16-brightgreen?style=flat-square)
-   
+3. **[Molecular Polariton Electroabsorption](https://www.nature.com/articles/s41467-022-35589-4)** ![Nature Comm](https://img.shields.io/badge/-Nature%20Comm.-004D40?style=round-square) ![Citations](https://img.shields.io/badge/Citations-19-brightgreen?style=round-square)\
+   Chiao-Yu Cheng, Nina Krainova, Alyssa Brigeman, <u>**Ajay Khanna**</u>, Sapana Shedge, Christine Isborn, Joel Yuen-Zhou, Noel C. Giebink, *Nature Communication* (2022)
    > Novel study on molecular polariton electroabsorption, opening new avenues in optoelectronics and quantum technology.
 
 4. **[Explicit Environmental and Vibronic Effects in Simulations of Linear and Nonlinear Optical Spectroscopy](https://pubs.aip.org/aip/jcp/article/154/8/084116/1062868/Explicit-environmental-and-vibronic-effects-in)**
-   Sapana V. Shedge, Tim J. Zuehlsdorff, <u>**Ajay Khanna**</u>, Stacey Conley, Christine M. Isborn
-   *Journal of Chemical Physics* (2021)
-   ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=flat-square) ![Citations](https://img.shields.io/badge/Citations-15-brightgreen?style=flat-square)
-   
+   Sapana V. Shedge, Tim J. Zuehlsdorff, <u>**Ajay Khanna**</u>, Stacey Conley, Christine M. Isborn, *Journal of Chemical Physics* (2021)
+   ![JCP](https://img.shields.io/badge/-J.%20Chem.%20Phys.-B31B1B?style=round-square) ![Citations](https://img.shields.io/badge/Citations-14-brightgreen?style=round-square)
    > Comprehensive exploration of environmental and vibronic effects in optical spectroscopy simulations, enhancing accuracy in molecular property predictions.
+
+5. **Resonance Energy Transfer Processes in Explicit Solvent Environment: Going Beyond Traditional FRET** ![Ongoing](https://img.shields.io/badge/-Ongoing-193E4C?style=round-square)\
+   <u>**Ajay Khanna**</u>, Christine M. Isborn, 2024
+   > Exploring advanced FRET processes in complex solvent environments to enhance energy transfer predictions in molecular systems.
 
 
 ## 🎓 Education
